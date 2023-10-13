@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px;
+    height: 60px;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
+
+
+.nav-list {
+    text-decoration: none;
+    margin: 0 20px;
+    color: black;
+    font-size: 13px;
+
+}
+
+img {
+    width: 35px;
+}
+
+.btn-login {
+    background-color: #E87676;
+    padding: 8px 18px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.btn-login:hover {
+    background-color: white;
+    color: #E87676;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: #E87676;
+    border-radius: 10px;
+}
+
+.btn-sign-up {
+    background-color: #E87676;
+    padding: 8px 18px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.btn-sign-up:hover {
+    background-color: white;
+    color: #E87676;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: #E87676;
+    border-radius: 10px;
+}
+
+.Neotaku {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.Neotaku>.nav-list {
+    font-size: 20px;
+    margin: 3px;
+    padding: 3px;
+}
+
+.box {
+    width: auto;
+    height: 35px;
+    background-color: #fff;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+  }
+  
+  .input-search {
+    width: 700px;
+    height: 20px;
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+    color: #000;
+    border: 1px solid #000;
+  }
+  
+  .icon {
+    width: 20px;
+    height: 20px;
+    float: right;
+    margin-top: 10px;
+  }
+  
+  .anime {
+    margin-top: 75px;
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+
+  .gambr {
+    margin-top: 30px;
+  }
+
+  .gambr img {
+    width: 235px;
+    margin-left: 20px;
+    margin-top: 8px;
+    margin-bottom: ;
+  }
+
+  .artikel {
+    margin-top: 75px;
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+
+  footer{
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    background-color: #010101;
+  }
+
+  .
